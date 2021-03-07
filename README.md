@@ -25,8 +25,8 @@ Wait, don't move away, passcore is not a kind of traditional tool, it is a new, 
 In some ways, passcore is a digest algorithm. It combines three strings into one, and keep it with high strength. Each part will influence the result completely.
 
 ```text
-Master Key ────┐
-Password ──────┼──────────→ High-Strength Password
+Master Key    ─┐
+Password      ─┼──────────→ High-Strength Password
 Enhance Field ─┘
 ```
 
