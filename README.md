@@ -62,3 +62,9 @@ Wild kids will not know what this application for, so it may help prevent from t
 ### 5. Far From Internet
 
 Core part of passcore does not need any Internet connection, that means most of threats will disapear.
+
+
+
+## LICENSE
+
+Proudly be licensed under ![CC-BY-NC-ND](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.svg)
