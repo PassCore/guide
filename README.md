@@ -4,7 +4,7 @@ You are closer to the password security.
 
 ## Content
 
-- [What is Passcore?](#what-is-iasscore)
+- [What is Passcore?](#what-is-passcore)
 - [How does Passcore work?](#how-does-passcore-work)
 - [Why Passcore?](#why-passcore)
 
