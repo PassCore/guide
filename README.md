@@ -49,14 +49,14 @@ Maybe someone may say open source is a basic operation.
 However, if you paid attention to current password related field, you may found most of famous tools need to be charged and are closed source.
 Open source is one of the strengths of passcore. According to opensource community, we can find do our cryptography algorithms work fine.
 
-### 3. Do not need storage
+### 3. Not Storage Needed
 
 Different to traditional password management tools, the core part of passcore does not need any storage. If you do not trust storaging in disk, passcore will not be a bac solution.
 
-### 4. Hard to use
+### 4. Hard To Wild Kids
 
 Wild kids will not know what this application for, so it may help prevent from their naughty.
 
-### 5. Far from Internet
+### 5. Far From Internet
 
 Core part of passcore does not need any Internet connection, that means most of threats will disapear.
