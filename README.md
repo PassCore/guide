@@ -1,5 +1,7 @@
 # Passcode Guide
 
+You are closer to the password security.
+
 ## Content
 
 - What is Passcore?
