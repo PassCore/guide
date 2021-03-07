@@ -7,6 +7,7 @@ You are closer to the password security.
 - [What is Passcore?](#what-is-passcore)
 - [How does Passcore work?](#how-does-passcore-work)
 - [Why Passcore?](#why-passcore)
+- [LICENSE](#license)
 
 
 
@@ -51,7 +52,7 @@ Open source is one of the strengths of passcore. Most of Passcore components are
 Most of passcore programmes are licensed under [OKZPL](https://raw.githubusercontent.com/KevinZonda/OKZL/main/okzpl/LICENSE), a derivative license from MIT license by [KevinZonda](https://github.com/KevinZonda).
 According to opensource community, we can find do our cryptography algorithms work fine.
 
-### 3. Not Storage Needed
+### 3. No Storage Needed
 
 Different to traditional password management tools, the core part of passcore does not need any storage. If you do not trust storaging in disk, passcore will not be a bac solution.
 
