@@ -46,7 +46,7 @@ Security is the most important thing. You can access our core to find how we rea
 ### 2. Open Source
 
 Maybe someone may say open source is a basic operation.
-However, if you paid attention to current password related field, you may found most of famous tools need to be charged and are closed source.
+However, if you paid attention to current password related field, you may find most of famous tools need to be charged and are closed-source.
 Open source is one of the strengths of passcore. Most of Passcore components are licensed under [OKZL](https://raw.githubusercontent.com/KevinZonda/OKZL/) series.
 Most of passcore programmes are licensed under [OKZPL](https://raw.githubusercontent.com/KevinZonda/OKZL/main/okzpl/LICENSE), a derivative license from MIT license by [KevinZonda](https://github.com/KevinZonda).
 According to opensource community, we can find do our cryptography algorithms work fine.
@@ -61,7 +61,7 @@ Wild kids will not know what this application for, so it may help prevent from t
 
 ### 5. Far From Internet
 
-Core part of passcore does not need any Internet connection, that means most of threats will disapear.
+Core part of passcore does not need any Internet connection, that means most of the threats will disapear.
 
 
 
