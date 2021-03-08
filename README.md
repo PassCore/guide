@@ -54,7 +54,7 @@ According to opensource community, we can find do our cryptography algorithms wo
 
 ### 3. No Storage Needed
 
-Different to traditional password management tools, the core part of passcore does not need any storage. If you do not trust storaging in disk, passcore will not be a bac solution.
+Different to traditional password management tools, the core part of passcore does not need any storage. If you do not trust storaging in disk, passcore will not be a bad solution.
 
 ### 4. Hard To Wild Kids
 
