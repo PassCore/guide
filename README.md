@@ -4,26 +4,26 @@ You are closer to the password security.
 
 ## Content
 
-- [What is Passcore?](#what-is-passcore)
-- [How does Passcore work?](#how-does-passcore-work)
-- [Why Passcore?](#why-passcore)
+- [What is PassCore?](#what-is-PassCore)
+- [How does PassCore work?](#how-does-PassCore-work)
+- [Why PassCore?](#why-PassCore)
 - [LICENSE](#license)
 
 
 
-## What is Passcore?
+## What is PassCore?
 
-After seeing a new project, almost everyone may ask a very similar question: What's it? Especially projects like Passcore, which has no detailed information.
+After seeing a new project, almost everyone may ask a very similar question: What's it? Especially projects like PassCore, which has no detailed information.
 
-Back to the main point, what is passcore. In some ways, passcore is a password generator which is a cryptography tool that intends to protect your password.
+Back to the main point, what is PassCore. In some ways, PassCore is a password generator which is a cryptography tool that intends to protect your password.
 
-Wait, don't move away, passcore is not a kind of traditional tool, it is a new, special solution to solve password issues. Let's move forward to understand how it works and why passcore.
+Wait, don't move away, PassCore is not a kind of traditional tool, it is a new, special solution to solve password issues. Let's move forward to understand how it works and why PassCore.
 
 
 
-## How does Passcore work?
+## How does PassCore work?
 
-In some ways, passcore is a digest algorithm. It combines three strings into one and keeps it with high strength. Each part will influence the result completely.
+In some ways, PassCore is a digest algorithm. It combines three strings into one and keeps it with high strength. Each part will influence the result completely.
 
 ```text
 Master Key    ─┐
@@ -37,24 +37,24 @@ However, if we separate it into three parts, you only need to remember one simpl
 
 
 
-## Why Passcore?
+## Why PassCore?
 
 ### 1. Cryptography Security
 
 Security is the most important thing. You can access our core to find how we realise the core part. Here is the link:  
-<https://github.com/Passcore/core>
+<https://github.com/PassCore/core>
 
 ### 2. Open Source
 
 Maybe someone may say open source is a basic operation.
 However, if you paid attention to the current password-related field, you may find most of the famous tools need to be charged and are closed-source.
-Open source is one of the strengths of passcore. Most Passcore components are licensed under [OKZL](https://github.com/KevinZonda/OKZL/) series.
-Most passcore programs are licensed under [OKZPL](https://raw.githubusercontent.com/KevinZonda/OKZL/main/okzpl/LICENSE), a derivative license from MIT license by [KevinZonda](https://github.com/KevinZonda).
+Open source is one of the strengths of PassCore. Most PassCore components are licensed under [OKZL](https://github.com/KevinZonda/OKZL/) series.
+Most PassCore programs are licensed under [OKZPL](https://raw.githubusercontent.com/KevinZonda/OKZL/main/okzpl/LICENSE), a derivative license from MIT license by [KevinZonda](https://github.com/KevinZonda).
 According to opensource community, we can find do our cryptography algorithms work fine.
 
 ### 3. No Storage Needed
 
-Different from traditional password management tools, the core part of passcore does not need any storage. If you do not trust storing in the disk, passcore will not be a bad solution.
+Different from traditional password management tools, the core part of PassCore does not need any storage. If you do not trust storing in the disk, PassCore will not be a bad solution.
 
 ### 4. Hard To Wild Kids
 
@@ -62,7 +62,7 @@ Wild kids will not know what this application for, so it may help prevent their 
 
 ### 5. Far From Internet
 
-The core part of passcore does not need any Internet connection, which means most of the threats will disappear.
+The core part of PassCore does not need any Internet connection, which means most of the threats will disappear.
 
 
 
