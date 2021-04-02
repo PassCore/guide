@@ -31,7 +31,7 @@ Password      ─┼──────────→ High-Strength Password
 Enhance Field ─┘
 ```
 
-Maybe you want to ask why we need 3 strings? Isn't one is enough?  
+Maybe you want to ask why we need 3 strings? Isn't one enough?  
 This is a good question. Try to think: how to remember a long string without any mistake? It is a really hard task for everyone.  
 However, if we separate it into three parts, you only need to remember one simple part and everything will be changed. So that is why we set to three fields.
 
